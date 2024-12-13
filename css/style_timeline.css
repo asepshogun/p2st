@@ -37,7 +37,7 @@ body {
 
 .timeline li:before {
   width: 200px;
-  color: white;
+  color: #575757; /*ubah*/
   display: inline-block;
   content: attr(data-year);
   font-size: 22px;
